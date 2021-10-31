@@ -1,0 +1,9 @@
+{
+	"name": "aamvadftest",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0683c655-acda-4ae6-afe1-5572d6c8e4fa",
+		"tenantId": "43109eb6-57fa-426a-af89-2000e43f0951"
+	}
+}
